@@ -32,7 +32,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Author
 
-- [Embrejs](https://github.com/Embrejs)
+- [Embrejs](https://github.com/CitralFlo)
 
 ## License
 
